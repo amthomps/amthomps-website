@@ -3,7 +3,7 @@ title: "Alison Thompson - Publications"
 layout: gridlay
 excerpt: "Alison Thompson -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publicationsadvanced/
 ---
 
 
