@@ -1,9 +1,9 @@
 ---
-title: "Alison Thompson - other"
+title: "Alison Thompson - Data Projects"
 layout: textlay
-excerpt: "other"
+excerpt: "Data Projects"
 sitemap: false
-permalink: /aoa.html
+permalink: /dataprojects.html
 ---
 
 # AOA calendar
