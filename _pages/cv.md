@@ -3,7 +3,7 @@ title: "Alison Thompson - CV"
 layout: textlay
 excerpt: "CV"
 sitemap: false
-permalink: ./cv/cv.pdf
+permalink: /cv/
 ---
 
 ##CV
