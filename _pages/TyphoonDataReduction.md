@@ -3,7 +3,7 @@ title: "Alison Thompson - TyphoonDataReduction"
 layout: textlay
 excerpt: "TyphoonDataReduction"
 sitemap: false
-permalink: /TyphoonDataReduction/
+permalink: /TyphoonDataReduction
 ---
 
 Instructions
