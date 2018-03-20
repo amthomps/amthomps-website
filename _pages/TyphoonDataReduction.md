@@ -109,6 +109,7 @@ ggplot(data = allFluors, aes(x=Well, y=AID)) + geom_point() + facet_grid( ~ Fluo
 ```
 
 ![](TyphoonDataReduction_files/figure-markdown_github/histogram%20of%20AID%20by%20Array%20and%20Color-1.png)
+![]({{"/images/TyphoonDataReduction_files/figure-markdown_github/histogram%20of%20AID%20by%20Array%20and%20Color-1.png"|absolute_url}})
 
 **Figure. Scatter plot of the AIDs vs. well \# for each fluorophore.**
 
