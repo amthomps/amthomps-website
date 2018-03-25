@@ -11,7 +11,7 @@ Introduction
 
 This code was used for a project to examine the genetics of single cells. The experients use a microfluidic device to partition single cells into small wells where a reaction can be carried out. This is an picture of the device:
 
-![]({{"/images/GenotypingDeviceAnalysis_files/figure-markdown_github/IMG_photo_of_SDChip_at_FH_crop.png"|absolute_url}}) **Figure 1. Photo of the device with three replicate arrays.**
+![]({{"/images/GenotypingDeviceAnalysis_files/figure-markdown_github/IMG_photo_of_SDChip_at_FH_crop.png"|absolute_url}})  **Figure 1. Photo of the device with three replicate arrays.**
 
 This device has three replicate arrays, each will be loaded with a solution containing cells and the reagents for the reaction. Each replicate array has 1024 wells, and each well will hold about 5 nanoliters of solution. The device shown here is made on a 2"x3" microscope slide. As the device is loaded, the cells are distributed randomly, so we first image the arrays to locate wells with single cells.
 
@@ -336,7 +336,8 @@ ampThreshPlot2 <- ggplot(snowCone1 %>% filter(Filled == TRUE), aes(x=ampFluor)) 
 ampThreshPlot2
 ```
 
-![]({{"/images/GenotypingDeviceAnalysis_files/figure-markdown_github/view%20amp%20thresh%20without%20density%20curve-1.png"|absolute_url}}) **Figure 8. Threshold for amplification fluorophore.**
+![]({{"/images/GenotypingDeviceAnalysis_files/figure-markdown_github/view%20amp%20thresh%20without%20density%20curve-1.png"|absolute_url}})  
+**Figure 8. Threshold for amplification fluorophore.**
 
 ``` r
 mut_vs_wt <- ggplot(snowCone1 %>% filter(Filled == TRUE),

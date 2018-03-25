@@ -6,4 +6,4 @@ sitemap: false
 permalink: /cv/
 ---
 
-{% include embedcv.html code="cv.pdf" width=100 height=4000 %}
+{% include embedcv.html code="cv.pdf" width=100 height=3500 %}
