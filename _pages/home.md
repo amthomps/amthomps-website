@@ -9,9 +9,7 @@ permalink: /
 ## Welcome!  
 I am Alison Thompson, a research scientist living in Seattle.  I created this website to present some of my research and projects.
 
-![]({{"/images/Alison_Thompson.png"|absolute_url}}) <!-- .element height="30%" width="30%" -->
-![]({{ site.url }}{{ site.baseurl }}/images/Alison_Thompson.png){: style="width: 300px; border: 10px"}
-
+![]({{ site.url }}{{ site.baseurl }}/images/Alison_Thompson.png){: style="width: 350px; border: 10px"}
 
 ### Bio  
 
